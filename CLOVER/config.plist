@@ -24,8 +24,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>change EC0 to EC</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>RUMwXw==</data>
 					<key>Replace</key>
@@ -34,8 +32,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>change CLRI to XLRI for Battery Hotpatch</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>Q0xSSQhwAA==</data>
 					<key>Replace</key>
@@ -44,8 +40,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>change UPBS to XPBS for Battery Hotpatch</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>VVBCUwBwXg==</data>
 					<key>Replace</key>
@@ -54,8 +48,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>change UPBI to XPBI for Battery Hotpatch</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>VVBCSQBwXg==</data>
 					<key>Replace</key>
@@ -64,8 +56,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>change SMWR to XMWR for Battery Hotpatch</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>U01XUgSgCQ==</data>
 					<key>Replace</key>
@@ -74,8 +64,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>change SMRD to XMRD for Battery Hotpatch</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>U01SRASgCQ==</data>
 					<key>Replace</key>
@@ -84,8 +72,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>change _BST to XBST for Battery Hotpatch</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>X0JTVACgNw==</data>
 					<key>Replace</key>
@@ -94,8 +80,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>change Method(_Q10,0,N) to XQ10, optionally pair with SSDT-FN.aml</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>X1ExMAA=</data>
 					<key>Replace</key>
@@ -104,8 +88,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>change Method(_Q11,0,N) to XQ11, optionally pair with SSDT-FN.aml</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>X1ExMQA=</data>
 					<key>Replace</key>
@@ -447,9 +429,9 @@
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP131.88Z.F000.B00.1905251430</string>
+		<string>MBP133.88Z.F000.B00.1905251314</string>
 		<key>Board-ID</key>
-		<string>Mac-473D31EABEB93F9B</string>
+		<string>Mac-A5C67F76ED83108C</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
@@ -457,7 +439,7 @@
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
-		<string>MacBookPro13,1</string>
+		<string>MacBookPro13,3</string>
 		<key>ChassisAssetTag</key>
 		<string>MacBook-Aluminum</string>
 		<key>ChassisManufacturer</key>
@@ -465,11 +447,11 @@
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>234.0.0.0.0</string>
+		<string>257.0.0.0.0</string>
 		<key>Family</key>
 		<string>MacBook Pro</string>
 		<key>FirmwareFeatures</key>
-		<string>0xFC0FE137</string>
+		<string>0xFC0FE13F</string>
 		<key>FirmwareFeaturesMask</key>
 		<string>0xFF1FFF3F</string>
 		<key>Manufacturer</key>
@@ -479,9 +461,9 @@
 		<key>PlatformFeature</key>
 		<string>0x1A</string>
 		<key>ProductName</key>
-		<string>MacBookPro13,1</string>
+		<string>MacBookPro13,3</string>
 		<key>SerialNumber</key>
-		<string>C02RXFYMGVC1</string>
+		<string>W80VWEYBGTFN</string>
 		<key>Trust</key>
 		<true/>
 		<key>Version</key>

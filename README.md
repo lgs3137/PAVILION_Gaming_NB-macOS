@@ -30,6 +30,9 @@
 
 ## Change Log:
 
+- 2019.06.25
+	- Update config.plist & Kext | Fix USB3.0 speed.
+
 - 2019.06.24
 	- macOS Mojave Clover EFI uploaded on Git.
 
