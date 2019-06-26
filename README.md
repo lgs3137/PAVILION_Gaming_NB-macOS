@@ -11,7 +11,7 @@
 | Memory              | 8GB/16GB Hynix DDR3L 1600MHz		   |
 | Hard Disk           | SSD 128GB/HDD 1TB  			   |
 | Integrated Graphics | Intel HD Graphics 530                      |
-| Monitor             | LG LGD0532 FHD 1920x1080 (15.3inch)  	   |
+| Monitor             | LG LGD04B3 FHD 1920x1080 (15.7inch)  	   |
 | Sound Card          | Realtek ALC290 (layout-id:28)              |
 | Wireless Card       | Intel Wireless 3165                        |
 | SD Card Reader      | Realtek RTS522A				   |
