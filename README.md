@@ -30,6 +30,9 @@
 
 ## Change Log:
 
+- 2019.06.26
+	- Update Clover4974 & Kext | Fix USB Type.
+
 - 2019.06.25
 	- Update config.plist & Kext | Fix USB3.0 speed.
 
