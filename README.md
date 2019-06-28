@@ -30,6 +30,9 @@
 
 ## Change Log:
 
+- 2019.06.28
+	- Update Clover4977 & Kext & config.plist.
+
 - 2019.06.26
 	- Update Clover4974 & Kext | Fix USB Type.
 
