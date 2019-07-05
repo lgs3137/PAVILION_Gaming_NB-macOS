@@ -30,6 +30,11 @@
 
 ## Change Log:
 
+- 2019.07.05
+	- Update Clover4979 & Kext & config.plist | Add OpenCore0.0.3.
+	- 新增 OC 引导，若要使用 OC 引导，需在Win下手动添加 \EFI\BOOT\BOOTX64.efi 为引导项即可选择进入OC.
+	- 目前 SMCBatteryManager 暂不支持升级到 10.15b3，等待更新.
+
 - 2019.06.28
 	- Update Clover4977 & Kext & config.plist.
 
