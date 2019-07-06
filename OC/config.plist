@@ -1040,7 +1040,7 @@
 			<key>ShowPicker</key>
 			<true/>
 			<key>Timeout</key>
-			<integer>5</integer>
+			<integer>4</integer>
 			<key>UsePicker</key>
 			<true/>
 		</dict>
@@ -1051,9 +1051,9 @@
 			<key>DisplayDelay</key>
 			<integer>0</integer>
 			<key>DisplayLevel</key>
-			<real>2147483650</real>
+			<integer>2147483650</integer>
 			<key>Target</key>
-			<integer>19</integer>
+			<integer>0</integer>
 		</dict>
 		<key>Security</key>
 		<dict>
