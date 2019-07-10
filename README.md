@@ -31,7 +31,7 @@
 ## Change Log:
 
 - 2019.07.10
-	- Update Kext.
+	- Update Clover4986 & Kext.
 
 - 2019.07.08
 	- Update Kext.
