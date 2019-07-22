@@ -30,6 +30,9 @@
 
 ## Change Log:
 
+- 2019.07.22
+	- Update Clover5027 & Kext.
+
 - 2019.07.17
 	- Update Clover & Hotpatch & Kext.
 
