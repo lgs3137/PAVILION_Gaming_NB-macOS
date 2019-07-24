@@ -30,6 +30,9 @@
 
 ## Change Log:
 
+- 2019.07.24
+	- Update Kext.
+
 - 2019.07.23
 	- Update Kext.
 
