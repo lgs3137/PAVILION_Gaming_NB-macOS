@@ -1,6 +1,6 @@
 # macOS Catalina for 暗影精灵I (惠普PAVILION Gaming NB 15-ak039TX)
 
-- [Enable macOS HiDPI](https://github.com/xzhih/one-key-hidpi) 
+- [Enable macOS HiDPI](https://github.com/lgs3137/PAVILION_Gaming_NB-macOS/tree/master/one-key-hidpi) 
 
 ## Configuration
 
