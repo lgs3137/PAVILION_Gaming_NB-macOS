@@ -30,6 +30,9 @@
 
 ## Change Log:
 
+- 2019.07.25
+	- Added one-key-hidpi.
+
 - 2019.07.24
 	- Update Kext.
 
