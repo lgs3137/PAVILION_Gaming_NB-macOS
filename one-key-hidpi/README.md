@@ -16,19 +16,19 @@ macOS 的 DPI 机制和 Windows 下不一样，比如 1080p 的屏幕在 Windows
 - 在终端输入以下命令并回车：
 
 ```bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/lgs3137/MR_S1-macOS/master/one-key-hidpi/one-key-hidpi.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/lgs3137/PAVILION_Gaming_NB-macOS/master/one-key-hidpi/one-key-hidpi.sh)"
 ```
 
 
 ## 恢复
 
-如果使用此脚本后，开机无法进入系统，请到恢复模式中或使用 clover `-x` 安全模式进入系统 ，使用终端删除 `/System/Library/Displays/Contents/Resources/Overrides` 下删除 `DisplayVendorID-dae` 文件夹，并把 backup 文件夹中的备份复制出来。
+如果使用此脚本后，开机无法进入系统，请到恢复模式中或使用 clover `-x` 安全模式进入系统 ，使用终端删除 `/System/Library/Displays/Contents/Resources/Overrides` 下删除 `DisplayVendorID-30e4` 文件夹，并把 backup 文件夹中的备份复制出来。
 
 具体命令如下：
 
 ```
 $ cd /Volumes/你的系统盘/System/Library/Displays/Contents/Resources/Overrides
-$ rm -rf ./DisplayVendorID-dae
+$ rm -rf ./DisplayVendorID-30e4
 $ cp -r ./backup/* ./
 ```
 
