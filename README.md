@@ -31,6 +31,7 @@
 ## Change Log:
 
 - 2019.07.25
+	- Update Clover5028 & Kext. | Fix Touchpad on macOS 10.15
 	- Added one-key-hidpi.
 
 - 2019.07.24
