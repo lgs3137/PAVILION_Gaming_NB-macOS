@@ -480,6 +480,26 @@
 			<false/>
 		</dict>
 	</dict>
+	<key>Booter</key>
+	<dict>
+		<key>Quirks</key>
+		<dict>
+			<key>DiscardAppleS4Map</key>
+			<false/>
+			<key>EnableAppleSmSlide</key>
+			<false/>
+			<key>ForceExitBootServices</key>
+			<false/>
+			<key>ProtectCsmRegion</key>
+			<false/>
+			<key>SetupAppleMap</key>
+			<true/>
+			<key>SetupAppleSlide</key>
+			<true/>
+			<key>ShrinkMemoryMap</key>
+			<false/>
+		</dict>
+	</dict>
 	<key>DeviceProperties</key>
 	<dict>
 		<key>Add</key>
@@ -978,7 +998,7 @@
 			<key>HideSelf</key>
 			<false/>
 			<key>Resolution</key>
-			<string>1920x1080</string>
+			<string></string>
 			<key>ShowPicker</key>
 			<true/>
 			<key>Timeout</key>
@@ -1055,30 +1075,62 @@
 		<true/>
 		<key>DataHub</key>
 		<dict>
+			<key>ARTFrequency</key>
+			<integer>0</integer>
 			<key>BoardProduct</key>
 			<string>Mac-473D31EABEB93F9B</string>
+			<key>BoardRevision</key>
+			<data>AQ==</data>
+			<key>DevicePathsSupported</key>
+			<integer>1</integer>
+			<key>FSBFrequency</key>
+			<integer>0</integer>
+			<key>InitialTSC</key>
+			<integer>0</integer>
+			<key>PlatformName</key>
+			<string>platform</string>
+			<key>SmcBranch</key>
+			<data>AAAAAAAAAAA=</data>
+			<key>SmcPlatform</key>
+			<data>AAAAAAAAAAA=</data>
+			<key>SmcRevision</key>
+			<data>ATkPAAAF</data>
+			<key>StartupPowerEvents</key>
+			<integer>0</integer>
 			<key>SystemProductName</key>
 			<string>MacBookPro13,1</string>
 			<key>SystemSerialNumber</key>
 			<string>C02S1CZJGVC1</string>
+			<key>SystemUUID</key>
+			<string>CD4A4693-A8DD-4EA6-AA82-DBF710DD179E</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
 			<string>C02627300GUHMHKUE</string>
+			<key>ROM</key>
+			<string>137A34AB23E2</string>
+			<key>SpoofVendor</key>
+			<true/>
 			<key>SystemProductName</key>
 			<string>MacBookPro13,1</string>
 			<key>SystemSerialNumber</key>
 			<string>C02S1CZJGVC1</string>
+			<key>SystemUUID</key>
+			<string>CD4A4693-A8DD-4EA6-AA82-DBF710DD179E</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
+			<key>BID</key>
+			<string>Mac-473D31EABEB93F9B</string>
 			<key>FirmwareFeatures</key>
 			<string>37E10FFC 00000000</string>
 			<key>FirmwareFeaturesMask</key>
 			<string>3FFF1FFF 00000000</string>
 			<key>MLB</key>
 			<string>C02627300GUHMHKUE</string>
+			<key>ROM</key>
+			<string>137A34AB23E2</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
@@ -1088,14 +1140,6 @@
 			<string>Apple Inc.</string>
 			<key>BIOSVersion</key>
 			<string>234.0.0.0.0</string>
-			<key>BiosReleaseDate</key>
-			<string>05/25/2019</string>
-			<key>BiosVendor</key>
-			<string>Apple Inc.</string>
-			<key>BiosVersion</key>
-			<string>MBP131.88Z.F000.B00.1905251430</string>
-			<key>Board-ID</key>
-			<string>Mac-473D31EABEB93F9B</string>
 			<key>BoardAssetTag</key>
 			<string></string>
 			<key>BoardLocationInChassis</key>
@@ -1120,20 +1164,20 @@
 			<integer>9</integer>
 			<key>ChassisVersion</key>
 			<string>Mac-473D31EABEB93F9B</string>
-			<key>Family</key>
-			<string>MacBook Pro</string>
 			<key>FirmwareFeatures</key>
-			<string>FC0FE137 00000000</string>
+			<string>37E10FFC 00000000</string>
 			<key>FirmwareFeaturesMask</key>
-			<string>FF1FFF3F 00000000</string>
-			<key>LocationInChassis</key>
-			<string>Part Component</string>
-			<key>Manufacturer</key>
-			<string>Apple Inc.</string>
+			<string>3FFF1FFF 00000000</string>
+			<key>MemoryFormFactor</key>
+			<integer>9</integer>
 			<key>Mobile</key>
 			<true/>
 			<key>PlatformFeature</key>
 			<integer>26</integer>
+			<key>ProcessorType</key>
+			<integer>0</integer>
+			<key>SmcVersion</key>
+			<data>AAAAAAAAAAAAAAAAAAAAAA==</data>
 			<key>SystemFamily</key>
 			<string>MacBook Pro</string>
 			<key>SystemManufacturer</key>
@@ -1144,7 +1188,7 @@
 			<string>Mac-473D31EABEB93F9B</string>
 			<key>SystemSerialNumber</key>
 			<string>C02S1CZJGVC1</string>
-			<key>SmUUID</key>
+			<key>SystemUUID</key>
 			<string>CD4A4693-A8DD-4EA6-AA82-DBF710DD179E</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>

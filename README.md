@@ -1,6 +1,6 @@
 # macOS Catalina for 暗影精灵I (惠普PAVILION Gaming NB 15-ak039TX)
 
-- [Enable macOS HiDPI](https://github.com/lgs3137/PAVILION_Gaming_NB-macOS/tree/master/one-key-hidpi) 
+- [Enable macOS HiDPI](https://github.com/xzhih/one-key-hidpi) 
 
 ## Configuration
 
@@ -24,11 +24,15 @@
 
 ## Credits
 
-- [Acidanthera](https://github.com/acidanthera) 
+- [Acidanthera](https://github.com/acidanthera)
 - [RehabMan](https://github.com/RehabMan) 
 - [daliansky](https://github.com/daliansky) 
 
 ## Change Log:
+
+- 2019.08.07
+	- Update Clover5035 & Kext & OC.
+	- 默认Clover引导，若要使用 OC 引导，需在Win下手动添加 \EFI\BOOT\OC.efi 为引导项即可选择进入OC.
 
 - 2019.07.25
 	- Update Clover5028 & Kext. | Fix Touchpad on macOS 10.15
