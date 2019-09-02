@@ -456,8 +456,6 @@
 		<string>C02S1CZJGVC1</string>
 		<key>SmUUID</key>
 		<string>CD4A4693-A8DD-4EA6-AA82-DBF710DD179E</string>
-		<key>Trust</key>
-		<true/>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>

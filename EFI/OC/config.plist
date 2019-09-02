@@ -991,6 +991,8 @@
 	</dict>
 	<key>Misc</key>
 	<dict>
+		<key>BlessOverride</key>
+		<array/>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleBehaviourOs</key>
@@ -1198,8 +1200,6 @@
 			<string>CD4A4693-A8DD-4EA6-AA82-DBF710DD179E</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
-			<key>Trust</key>
-			<true/>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1216,7 +1216,7 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>HFSPlus.efi</string>
+			<string>HfsPlus.efi</string>
 			<string>ApfsDriverLoader.efi</string>
 			<string>AppleUiSupport.efi</string>
 			<string>AppleGenericInput.efi</string>
@@ -1238,6 +1238,8 @@
 		<dict>
 			<key>AvoidHighAlloc</key>
 			<false/>
+			<key>ClearScreenOnModeSwitch</key>
+			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
 			<key>IgnoreInvalidFlexRatio</key>
@@ -1247,7 +1249,9 @@
 			<key>ProvideConsoleGop</key>
 			<false/>
 			<key>ReleaseUsbOwnership</key>
-			<true/>
+			<false/>
+			<key>ReplaceTabWithSpace</key>
+			<false/>
 			<key>RequestBootVarRouting</key>
 			<false/>
 			<key>SanitiseClearScreen</key>

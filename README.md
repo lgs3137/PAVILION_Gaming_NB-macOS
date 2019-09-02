@@ -1,6 +1,6 @@
 # macOS Catalina for 暗影精灵I (惠普PAVILION Gaming NB 15-ak039TX)
 
-- [Enable macOS HiDPI](https://github.com/xzhih/one-key-hidpi) 
+- [Enable macOS HiDPI](https://github.com/lgs3137/PAVILION_Gaming_NB-macOS/tree/master/one-key-hidpi)
 
 ## Configuration
 
@@ -29,6 +29,9 @@
 - [daliansky](https://github.com/daliansky) 
 
 ## Change Log:
+
+- 2019.09.02
+	- Update Clover5058 & Kext & OC.
 
 - 2019.08.15
 	- Update Clover5050 & Kext & OC0.0.5.
