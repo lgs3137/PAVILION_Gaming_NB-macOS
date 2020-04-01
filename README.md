@@ -31,7 +31,7 @@
 ## Change Log:
 
 - 2020.04.01
-	- Update Clover5107 & Kext & OC0.5.7.（纯更新，未在真机测试！）
+	- Update Clover5108 & Kext & OC0.5.7.（纯更新，未在真机测试！）
 
 - 2019.10.22
 	- Update Clover5097 & Kext & OC.
