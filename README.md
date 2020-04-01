@@ -20,7 +20,7 @@
 
 * Non-working
    * GPU (Nvidia 950M/GTX)
-   * WIFI (Intel® Dual Band Wireless-AC 3165)
+   * ~WIFI (Intel® Dual Band Wireless-AC 3165)~ [zxystd基于OpenBSD的macOS英特尔网卡驱动](https://github.com/zxystd/itlwm) 
 
 ## Credits
 
@@ -29,6 +29,9 @@
 - [daliansky](https://github.com/daliansky) 
 
 ## Change Log:
+
+- 2020.04.01
+	- Update Clover5107 & Kext & OC0.5.7.（纯更新，未在真机测试！）
 
 - 2019.10.22
 	- Update Clover5097 & Kext & OC.
